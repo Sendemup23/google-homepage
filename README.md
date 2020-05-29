@@ -1,0 +1,1 @@
+Hello..... This is my first project that I am creating on my ODIN-Project heros journey! My main objective is to build a copy of googles search page. To make everything look similar and close to acutal good search page. Links are not going to be in working order, this is more of a design and confidence project! Lets get after it =)
